@@ -1,1 +1,4 @@
-# notebook
+ipywidgets
+notebook
+ensure
+py-youtube
